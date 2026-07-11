@@ -1,0 +1,368 @@
+[
+  {
+    "id": 1,
+    "brand": "Raf Simons",
+    "category": "Sneakers",
+    "name": "Raf Simons Ozweego",
+    "color": "White / Silver",
+    "price": 6750,
+    "image": "https://i.pinimg.com/736x/c5/26/fd/c526fd7815a1a68a5be7a432c086b542.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Raf Simons",
+    "category": "Sneakers",
+    "name": "Raf Simons Runner",
+    "color": "Black",
+    "price": 7000,
+    "image": "https://spraytown.com.ua/wp-content/uploads/2026/01/%D0%9A%D1%80%D0%BE%D1%81%D1%81%D0%BE%D0%B2%D0%BA%D0%B8-Adidas-x-Raf-Simons-Antei-Total-Black-5.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Raf Simons",
+    "category": "Sneakers",
+    "name": "RS Replicant",
+    "color": "Grey",
+    "price": 8350,
+    "image": "https://i.ebayimg.com/images/g/ZJUAAOSwkKJnuo~e/s-l960.webp"
+  },
+  {
+    "id": 4,
+    "brand": "Raf Simons",
+    "category": "Sneakers",
+    "name": "Raf Simons Cylon-21",
+    "color": "Triple Black",
+    "price": 6000,
+    "image": "https://cdn.clothbase.com/uploads/4551fe05-4010-46b6-bf17-2c0fe2e4ceac/black-cylon-21-sneakers.jpg"
+  },
+{
+  "id": 5,
+  "brand": "Raf Simons",
+  "category": "Hoodie",
+  "name": "Classic Logo Hoodie",
+  "color": "Black",
+  "price": 4000,
+  "image": "https://images.openai.com/static-rsc-4/mhxSqhrR62WR9mVpl5xGVvJr1AWZLSATqfQ6UZerQ05nxVgscTrlabBKFo98v_Wo2fLy_l2_3S7Anuu7EIE4PmfDao5ZJMDzqFb-kCmHr8ogTXO59Kbl46D4hfnzSxGV9E3hjGkXV7mzFBJqqWX29O8TfrMXev--jFf-v3YwuTQGbs1fNbO4yj3xu6NWhM1K?purpose=fullsize"
+},
+{
+  "id": 6,
+  "brand": "Raf Simons",
+  "category": "Hoodie",
+  "name": "Oversized Hoodie",
+  "color": "Grey",
+  "price": 5000,
+  "image": "https://i.ebayimg.com/images/g/1G4AAeSwpO5puxg3/s-l400.jpg"
+},
+{
+  "id": 7,
+  "brand": "Raf Simons",
+  "category": "Hoodie",
+  "name": "Archive Hoodie",
+  "color": "Cream",
+  "price": 4850,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPIDAAaY2DW2DmVvMlX6XQMckTDJ8h2FQogUi6HxbjHX4Dx-3OZymR2o&s=10"
+},
+{
+  "id": 8,
+  "brand": "Raf Simons",
+  "category": "Hoodie",
+  "name": "Destroyed Hoodie",
+  "color": "Navy",
+  "price": 6000,
+  "image": "https://cdn.clothbase.com/uploads/491affc4-24e6-4c24-a7a8-e5941b8460e4/25-04-2022_ML_221-M178-0044_1_1.jpg"
+},
+{
+  "id": 9,
+  "brand": "Raf Simons",
+  "category": "T-Shirt",
+  "name": "Nebraska T-Shirt",
+  "color": "Black",
+  "price": 4800,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROXg7q8XwCmnsVoRqqSvU6NbzP1z9SPDSoeJpm-oR7UcZgtrEDo2cj2Wkt&s=10"
+},
+{
+  "id": 10,
+  "brand": "Raf Simons",
+  "category": "T-Shirt",
+  "name": "Youth Reanimator Tee",
+  "color": "White",
+  "price": 3300,
+  "image": "https://cdn.clothbase.com/uploads/619d159c-9ca4-493a-8679-f0b05e8da52c/10-01-2020_rafsimons_youthreanimatoroversizedtee_ecru_201-121-00013_jd_1.jpg"
+},
+{
+  "id": 11,
+  "brand": "Raf Simons",
+  "category": "T-Shirt",
+  "name": "RS Archive Print Tee",
+  "color": "Grey",
+  "price": 5700,
+  "image": "https://cdn.clothbase.com/uploads/f57af0e6-fa2d-4846-83b6-decb7959faf3/image.jpg"
+},
+{
+  "id": 12,
+  "brand": "Raf Simons",
+  "category": "T-Shirt",
+  "name": "Teenage Dreams Tee",
+  "color": "Black",
+  "price": 3200,
+  "image": "https://images.openai.com/static-rsc-4/9EKEZJGdDKkofBrLbZj5pN-NXvw0zY5bjtUQZm7rVIsVVeTpaa3qOpAv8vv6I_YO1rgli0qSAHasE9S3ZrtiL6hzqNuOWLFPkjnxOEYO9XvdJYhay5Kse3mtyp1dYuENKFjJBU5UO3FFwmf84DXD0f6DOl1r6p4-IzZ-zq1Nbe_mL-AlG8Je_MJq_n_fQ9ph?purpose=fullsize"
+},
+{
+  "id": 13,
+  "brand": "Raf Simons",
+  "category": "Pants",
+  "name": "Flared Jeans",
+  "color": "red",
+  "price": 6000,
+  "image": "https://asthik.com/image/cache/catalog/raf-simons/33947_0129/610289ea4383e_0-1000x1500.jpg"
+},
+{
+  "id": 14,
+  "brand": "Raf Simons",
+  "category": "Pants",
+  "name": "Utility Pants",
+  "color": "Black",
+  "price": 7200,
+  "image": "https://images.openai.com/static-rsc-4/tgU2ItXAiBF5n_Xnc1LAwTu3U81G_Q2UIc0ZaSMIINwm-i7N0AnYc4m9OS8_kNNVu1GIW7K-ONrS_rq4vDaDOQqaBzWGfu-Gev0l2ZbpXicj6VEPdaa7nP8YNqPxVi_f0BJvF1BIQDsB7fZ4QnxYAbE4cTZPeshyL5P3BawgfGd4w7veUYJMkc1yKP2mHSD7?purpose=fullsize"
+},
+{
+  "id": 15,
+  "brand": "Raf Simons",
+  "category": "Pants",
+  "name": "Denim Trousers",
+  "color": "Black",
+  "price": 6800,
+  "image": "https://images.openai.com/static-rsc-4/9Jyy8GEqzKBHfvoMPk26lzahWzfp1Pccag2cTDTjRrzz_3iLE0sz2oxQJylcU1MElNZdTLEiNHCH0Z3sCNhuxQ8pXMvRR5SSCUzeKgmcBpVDlTAgEEB3D4tNFaxKB81tIOP4lYr-vwgS4m9th1x-DgEdx__cLCVSFxuKq7c-CGalIpVvDthJ7iKZvcMKEKy3?purpose=fullsize"
+},
+{
+  "id": 16,
+  "brand": "Raf Simons",
+  "category": "Pants",
+  "name": "Wide Leg Pants",
+  "color": "Black",
+  "price": 7500,
+  "image": "https://images.openai.com/static-rsc-4/hmK-dw00rWl7IYLA5x4hKx4nzEhikO2yGYJx5W22jXpLD0Xoij3W3uHEqDVZQc5zUYiGbqFh69DvRyvvMPEGpT1fTe_hHrosvqP_kfJt8CMdjCyqoGz97d-RNOsRm5d4cf8uPbBshSJNAwOgYaTe9v3QUvEprhxgqm___82CRQyKTjkbh3YJti0P59-K4VbL?purpose=fullsize"
+}
+,
+{
+  "id": 17,
+  "brand": "Raf Simons",
+  "name": "Archive Bomber",
+  "price": 9500,
+  "image": "https://images.openai.com/static-rsc-4/U0zFP_SOkbQxs_srJnsEzAne4foO7Q2qjIxiCdedEF40B_4xVPiVrNuDi9vu6y7qlzTLh7YMbFHforT5gsY7TJvwjC5xGH7P5EvG6-Yce4O2k3xCLEu9L1Q9VqgQjQ4si7QjyKTNiwXij23kGQguH0f1rjNnFCuH_UEEijDUmZbp_62Mt44h2zsaYEIOo1St?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Black"
+},
+{
+  "id": 18,
+  "brand": "Raf Simons",
+  "name": "Oversized Denim Jacket",
+  "price": 12800,
+  "image": "https://images.openai.com/static-rsc-4/k2qC7Dhv1JgFpU5Aq1s5je4Es1mpdKgTXJRjxGKgK8cWt-VuRXwih17glA0XJKunzrmTtheXBc25ef59kkHnwTqnyLC1QKxo1_9sDn1D5oZQbWSXD6bkk1kS17zkSjboAaB6a2LRK7Iv6xQERxKRqbKspmpCdj3v7U4aM5PTlYlXkvg2KWkxX4Rvpl9-BCYK?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Blue"
+},
+{
+  "id": 19,
+  "brand": "Raf Simons",
+  "name": "Patch Work Jacket",
+  "price": 14300,
+  "image": "https://images.openai.com/static-rsc-4/SA2f1PcRX-zNHXVpOwEU5o0KwrgItydpT-SG6sJKuTriGqPFX7TnKfFoe7zu7SQ2yQUBh2-HOTvOfDdWeT4w20TWgTy3UPdxb1S8P1m5fR-Ml0lUmtWaeryJ-OoNUgEKvp0n_4kzSC50ZY2usxQsSIXsxZjohLGV-7TOzkzRq6bvBCAek17U6y_Qe6Sz6H-Z?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Olive"
+},
+{
+  "id": 20,
+  "brand": "Raf Simons",
+  "name": "Waves Work Jacket",
+  "price": 8000,
+  "image": "https://images.openai.com/static-rsc-4/40AbqGFwehfg8ogMRN5-KljN63otOU2nY5PjPVG0zDdSkH1vubENYCWzTYFWpg8mzuIh8zXRhCZACxucwEHxgWqYL1rK0iCKIlBEg37yoRadlE0RWyDN9rOUD3mfFh7upXkoW60BBz3F9i3BXjXRNq0DxGve4xYPm9oTpYn0F_1--yo50t_0R578xFwfChRi?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Black"
+}
+,
+{
+  "id": 21,
+  "brand": "Rick Owens",
+  "name": "Geobasket",
+  "price": 7000,
+  "image": "https://images.openai.com/static-rsc-4/ojrtwNiqIR46c-L8qAXshJeBNVZ-ScRctRiPdQ7pT4S4a5AP2at1xjJUFJAS-Q5XJD_dzkYjTqJiVAUGjUHGrd1eMKTmJNf9_-Z7qIT7vg36E13XSKQeTQZ4RQvn807C6XElO1-f63-O8m821EwTeNIZo4AmUjkpvo-ewhqvNOaeGQ4m5IsFu8runnsCpUks?purpose=fullsize",
+  "category": "Sneakers",
+  "color": "Black / Milk"
+},
+{
+  "id": 22,
+  "brand": "Rick Owens",
+  "name": "Ramones Low",
+  "price": 6500,
+  "image": "https://images.openai.com/static-rsc-4/Ua1Ad5FfdpujN6NYoCNCx3OH9E_kx6rDVUO8lpXom41GwFicU_Y_oEzn8prfLJPZK1GgwH8-SSshipwVWQQ7Isv7TXwwVbp1grSdHrisyoJAjrZsms7rJqnhqjIQz_1cgzEu3uWkqOW7ydMjsowTbcomllAoaUYKty_Jf3d-GwKMaLb2PuCsk30jrZAZwIGR?purpose=fullsize",
+  "category": "Sneakers",
+  "color": "Black"
+},
+{
+  "id": 23,
+  "brand": "Rick Owens",
+  "name": "DRKSHDW High",
+  "price": 8000,
+  "image": "https://images.openai.com/static-rsc-4/bxIUPdWj8YgdiBPUZqhlCZTRLduFAA91WJvl757Pt6MprqpnDSSIuinyjAlk_xJcsml4nw1JR1cIQGlWGD8akYSlRnI09sP4_z0KQFUzIqcQ545zMQ2cb_kcq65nTRYwm5Oa2ULWjL7iQ6_tUd2ryzUyqO51MiEA23l6c2OgXOerNAVbrCc55ZTfcVMYseEH?purpose=fullsize",
+  "category": "Sneakers",
+  "color": "White"
+},
+{
+  "id": 24,
+  "brand": "Rick Owens",
+  "name": "Turbo Cyclops",
+  "price": 8500,
+  "image": "https://images.openai.com/static-rsc-4/LwunznZyNLE5zCtb2MC1ZcNJpMFmrtUUQ-APfv0dEK6p0C4L3YPY72DuVzGaynsNej4A1ARX_KeoKE1KBEYx6x8QKrqumUP64tG27Tv5wQJqbWCSg_10-d-58QGG4sYb2HR5dGG8qwqWqjzZy1mHN1vcib690oXdwoNUqQR45JDHdTH-pfCDIOSJXu1BkxdK?purpose=fullsize",
+  "category": "Sneakers",
+  "color": "Grey"
+}
+,
+{
+  "id": 25,
+  "brand": "Rick Owens",
+  "name": "Mountain Hoodie",
+  "price": 5000,
+  "image": "https://images.openai.com/static-rsc-4/Qh3iboS3C-1DKLm4v6p0JQXkgzTKPuAxn-gmKgr6sh8h3yxrFhy8Kp65nyfnWobrw3byPMXkwSPfonOKjElPqHPvME6x_hO4vqiVACypesZe_ZclxORE6ZLgGsC8nV8UPt1zPW7pwMKtzbG8Yf1q6zfw6ghIYPzP3uQxqeMFjn_k-rpWM1M6einJdW2FgHkv?purpose=fullsize",
+  "category": "Hoodie",
+  "color": "Black"
+},
+{
+  "id": 26,
+  "brand": "Rick Owens",
+  "name": "DRKSHDW Hoodie",
+  "price": 4500,
+  "image": "https://images.openai.com/static-rsc-4/qH7sjVFidoJWTavtZik3bcZDuSssplOsTpTn7qrBjytqZHgJXC5YRI5Ge2XDM-htu6cHuUY4pz8sRBZMHyq_MMj0dS91lAKVae1j81L2lw0wGP824zwygqNoBkFsB7tC-7CawtFcS-_dHn9s01MRcLwTU3THwrvfdz6dI9vhwvBvEjhHEEtGQKvQRb727Lpc?purpose=fullsize",
+  "category": "Hoodie",
+  "color": "Dust"
+},
+{
+  "id": 27,
+  "brand": "Rick Owens",
+  "name": "Vintage Zip Hoodie",
+  "price": 5800,
+  "image": "https://images.openai.com/static-rsc-4/LF3kEwT-KSNfDF28BrO3SYRHz-Tyck5clRrDWkVjB1ZhkSKKciP6KmceKttvXYuGBLMIoagp8G0r3KqKY7f9zXKKev6B3d0R4YixWukgx-A57QC9b1PSHRoEE--CrsrJ_E8SPMP573xHJfJKDkvO41QlyV2wzYTdDdchSq08G1FU6VT_yXj8MqVBWnLQds43?purpose=fullsize",
+  "category": "Hoodie",
+  "color": "Grey"
+},
+{
+  "id": 28,
+  "brand": "Rick Owens",
+  "name": "Oversized Hoodie",
+  "price": 4300,
+  "image": "https://images.openai.com/static-rsc-4/lHKqdtnySjVxFkTOCBLPkYptr-M1OqPHPNR5BGQxHC6N8k1s9qZnH1lHfZBCBZ8ayG4VNxAE6PBBOmn2VIrRcftqcGGqWrdTVAlMGPuo7ZeCIbHCyjmsWRRw7BvwTnbt9pVTrgdTLfZLN2N4l-Po8-CCOVS_PsFtcKkmiB8SjGglF4w4VhbDyqkmVHNsImJg?purpose=fullsize",
+  "category": "Hoodie",
+  "color": "Black"
+}
+,
+{
+  "id": 29,
+  "brand": "Rick Owens",
+  "name": "Level Tee",
+  "price": 3500,
+  "image": "https://images.openai.com/static-rsc-4/V-5bQDaMYbDGipX_Xrxo8zxV2vi_BBu7kKWq73O5m4oOYNGYAt14oBLRVz6vMe7dt_VpHZ5EJe2xh3pMQaTj5sAEPP7n6Rrl2LykRYA0T5LJjFpFYbGAxCcx38xNGoBPr7H7IArWU1OJ9q5oJFFUcJSdXa9nIWGPNiTj2LazfkCCWsvOloEPSjLSlYIeZAG1?purpose=fullsize",
+  "category": "T-Shirt",
+  "color": "Black"
+},
+{
+  "id": 30,
+  "brand": "Rick Owens",
+  "name": "DRKSHDW Tee",
+  "price": 4200,
+  "image": "https://img.brandshop.ru/cache/products/d/du01f4274-rigep3-0911-4_1104x1104.webp",
+  "category": "T-Shirt",
+  "color": "Black"
+},
+{
+  "id": 31,
+  "brand": "Rick Owens",
+  "name": "Logo Tee",
+  "price": 4900,
+  "image": "https://images.prom.ua/6620934968_w640_h640_belaya-futbolka-rick.jpg",
+  "category": "T-Shirt",
+  "color": "White"
+},
+{
+  "id": 32,
+  "brand": "Rick Owens",
+  "name": "Classic Tee",
+  "price": 4700,
+  "image": "https://i.ebayimg.com/images/g/yxAAAeSweQNp~mfk/s-l1600.webp",
+  "category": "T-Shirt",
+  "color": "Grey"
+}
+,
+{
+  "id": 33,
+  "brand": "Rick Owens",
+  "name": "Bauhaus Cargo Pants",
+  "price": 7200,
+  "image": "https://images.openai.com/static-rsc-4/Ugq3WrhGyP38qc5Q8NwESWgjWa-LskPb2q-cT2-JsIoUlMN4ajs__7sjkH6RSpiaoysgLkLmtS3HA2H-8ItoP9dG0fcyiHvyPT5TY6_qFYhykw2Io0KrZZT2_lA9RVEXf6cefl8ccOYX6J-rHw1blZOiJlQpSyZPmbHaF-j4BS12iYln1x-sqswSmmltCytS?purpose=fullsize",
+  "category": "Pants",
+  "color": "Black"
+},
+{
+  "id": 34,
+  "brand": "Rick Owens",
+  "name": "DRKSHDW Creatch Wide Cargo",
+  "price": 6500,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQgnV4aKhs57E5MCo5Y88y862vaAUAMnYFK8jTCB0jqDqGxyeYAAd4FEGu5yAP0cCDPqelR9TLK0fF5TW4eN3-AanP4VLgPyw",
+  "category": "Pants",
+  "color": "Black"
+},
+{
+  "id": 35,
+  "brand": "Rick Owens",
+  "name": "Cargo Dietrich",
+  "price": 8000,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHo5KfCKosXnNkC85nQuhTUESgeBtotUtVMc6-6J4QNX5nFZbznKOrXyc&s=10",
+  "category": "Pants",
+  "color": "Black"
+},
+{
+  "id": 36,
+  "brand": "Rick Owens",
+  "name": "Flared Pants",
+  "price": 7800,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpv6_VRpujpZ8I-6EBagY4GYFFoU-k-CEB0WADST4VUhA93CaB_1RlpRUJ&s=10",
+  "category": "Pants",
+  "color": "Black"
+}
+,
+{
+  "id": 37,
+  "brand": "Rick Owens",
+  "name": "Bauhaus Jacket",
+  "price": 8000,
+  "image": "https://images.openai.com/static-rsc-4/flQiPXgQwGb5Nh4iIMzLxx12DjI1xYhZeWonDuAY6GW0OwngOBnC6OVOZIHVjHEaiZrqPXu_KSQOz7NTfSaNZi5ppWfN11Iv0PbYDN5W_54PT0k8aAVkWi8Fg9fsxzFXxqMVTuji2vTMp86eIEGhLcd4heUVZzzxCEmkhSnFSfn_tTo0gg9fxYs8khqFvMqg?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Black"
+},
+{
+  "id": 38,
+  "brand": "Rick Owens",
+  "name": "Flight Jacket",
+  "price": 7500,
+  "image": "https://images.openai.com/static-rsc-4/iEg9-UsN0t2AV0OUtLm_9Nlz_Fbzjne_3S7aiNIn4-gu2JeOhxKQpGZFX34je4CGhGq6NtM2KR8DgCvW3GNsk5R8QYeKSHjjqHAVtRVDULqUQa0EYqoMkO4NbLloFNJjv5wLGqYxvnT8dUjiBFuJvczJczzkpC_HcbafEhXnulkHR8sDoguFme2T6jAG1Ygw?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Olive"
+},
+{
+  "id": 39,
+  "brand": "Rick Owens",
+  "name": "Mountain Jacket",
+  "price": 9000,
+  "image": "https://images.openai.com/static-rsc-4/OwR-qQDeOCwyCOPfqP1flDuZbVhPQAvRTkLNCTkN0aj7D5fcLksWyfmho5idGJm3pOoeRp712nBNIGA7WlyDSda6raAyfajwgppZZqKMKtHXdJ1wCA_0KCu8nThLKUP6VV7aUC7qrJmq4-uVu68cxBWwkQ04UUx0LAAbhE26ceVeQRpSYsNIA1JwgMXTnNYo?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Dust"
+},
+{
+  "id": 40,
+  "brand": "Rick Owens",
+  "name": "Leather Jacket",
+  "price": 9750,
+  "image": "https://images.openai.com/static-rsc-4/APT1RR9FwmAELz0NN6Cr0d-67zYewqWpDZdh0P4p9b8FV-W_HtNd4-BtVgAGlNX7fyA7S9oXRYYRRZdntlXoE9DiEAbkNuun233PnPxvqoz94LVn2paW9y3zg5OtXyIXEJGD5mPoGk1PoydkXVi1S1Q48D00fZLJO0TIbZDHnw2umTVWDdlgvukRRKUW1mby?purpose=fullsize",
+  "category": "Jacket",
+  "color": "Black"
+}
+]
